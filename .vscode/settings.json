@@ -24,9 +24,6 @@
             "statusBarItem.remoteBackground": "#C6FF00",
             "activityBar.activeBorder": "#C6FF00",
             "tab.activeBorder": "#C6FF00"
-        },
-        "activityBar.background": "#20312E",
-        "titleBar.activeBackground": "#2D4440",
-        "titleBar.activeForeground": "#F9FBFB"
+        }
     }
 }
